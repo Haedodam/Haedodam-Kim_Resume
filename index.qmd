@@ -1,19 +1,21 @@
 ---
----
 title: "Haedodam Kim"
-image: "haedodam.jpg"  
+image: "haedodam.jpg"
 about:
-  template: jolla 
+  template: jolla
   image-shape: round
   image-width: 15em
 links:
   - text: Email
     icon: envelope
-    href: "hkim2030@uic.edu"
+    href: "mailto:hkim2030@uic.edu"
   - text: GitHub
     icon: github
     href: "https://github.com/Haedodam"
   - text: Resume
     icon: file-text
     href: "resume.pdf"
+---
+
+Hello! I’m Haedodam Kim, a master’s student in Civic Analytics at UIC.
 ---
