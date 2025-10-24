@@ -1,21 +1,28 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Haedodam Kim_Resume"
+  title: "Haedodam Kim"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: fall-2025.qmd
+        text: Fall 2025
+    right:
+      - icon: github
+        href: "https://github.com/Haedodam"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
-    toc: true
+    theme: sandstone      
+    mainfont: Arial
+    monofont: "Courier New"
+    fontsize: 1.5rem
+    fontcolor: "#0013d5"
+    linkcolor: "#ff33f0"
 
-editor: visual
-
+resources:
+  - resume.pdf
+  - haedodam.jpg

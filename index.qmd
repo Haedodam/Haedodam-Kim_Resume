@@ -1,29 +1,21 @@
 ---
-title: "Haedodam Kim_Resume"
-project:
-  type: website
-  output-dir: docs
-  
-website:
-  title: "Haedodam Kim"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - href: fall-2025.qmd
-        text: Fall 2025
-    sidebar:
-      style: docked
-      search: true
-      
-format:
-  html:
-    theme: sandstone      
-    mainfont: Arial
-    monofont: "Courier New"
-    fontsize: 1.5rem
-    fontcolor: "#0013d5"
-    linkcolor: "#ff33f0"
+---
+title: "Haedodam Kim"
+image: "haedodam.jpg"  
+about:
+  template: jolla 
+  image-shape: round
+  image-width: 15em
+links:
+  - text: Email
+    icon: envelope
+    href: "hkim2030@uic.edu"
+  - text: GitHub
+    icon: github
+    href: "https://github.com/Haedodam"
+  - text: Resume
+    icon: file-text
+    href: "resume.pdf"
 ---
 
 This is a Quarto website.
