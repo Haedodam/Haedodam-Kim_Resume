@@ -16,7 +16,7 @@ website:
         
 format:
   html:
-    theme: sandstone
+    theme: minty
 
 resources:
   - resume.pdf
