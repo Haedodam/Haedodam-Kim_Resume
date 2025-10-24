@@ -8,10 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - text: Resume
+        href: resume.pdf
     right:
       - icon: github
         href: "https://github.com/Haedodam"
-
+        
 format:
   html:
     theme: sandstone
