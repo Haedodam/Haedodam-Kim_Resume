@@ -14,4 +14,4 @@ links:
     href: "https://github.com/Haedodam"
 ---
 
-## Hello! I’m Haedodam Kim, a master’s student in Civic Analytics at UIC.
+#### Hello! I’m Haedodam Kim, a master’s student in Civic Analytics at UIC.

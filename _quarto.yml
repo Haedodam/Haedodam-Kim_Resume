@@ -17,6 +17,9 @@ website:
 format:
   html:
     theme: minty
+    mainfont: Arial
+    fontsize: 1.5rem
+    fontcolor: "#000000"
 
 resources:
   - resume.pdf
